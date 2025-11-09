@@ -1,6 +1,7 @@
 # Siber Güvenlik Tehdit Modelleme ve Saldırı Yolu Analizi
 
 Bu proje, siber güvenlik tehdit modelleme ve saldırı yolu analizi için bir frontend prototipidir. Topoloji görselleştirme, risk hesaplama ve saldırı yolu analizi özelliklerini içerir.
+Projenin yürütülmesinde Prof. Dr. Sedat Akleylek'ten model geliştirme ve yöntem analizi konularında destek alınacaktır.
 
 ## Özellikler
 
