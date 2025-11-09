@@ -272,7 +272,5 @@ system_score = sum(node.avg_cvss) / node_count
 
 Bu proje araştırma amaçlı bir prototiptir. Kod açık kaynak olarak paylaşılmaktadır.
 
-## İletişim
 
-Sorularınız veya önerileriniz için issue açabilirsiniz.
 
